@@ -10,7 +10,7 @@ This organization hosts the various open-source projects managed by the Arduino 
   * [Language discussions](https://github.com/arduino/language)
   * [Abstract API specification](https://github.com/arduino/ArduinoCore-API)
   * [Reference docs](https://github.com/arduino/reference-en)
-* Cores: [AVR](https://github.com/arduino/ArduinoCore-avr) - [megaAVR](https://github.com/arduino/ArduinoCore-megaavr) - [SAMD](https://github.com/arduino/ArduinoCore-samd) - [SAM](https://github.com/arduino/ArduinoCore-sam) - [Mbed](https://github.com/arduino/ArduinoCore-mbed)
+* Cores: [AVR](https://github.com/arduino/ArduinoCore-avr) - [megaAVR](https://github.com/arduino/ArduinoCore-megaavr) - [SAMD](https://github.com/arduino/ArduinoCore-samd) - [SAM](https://github.com/arduino/ArduinoCore-sam) - [Mbed](https://github.com/arduino/ArduinoCore-mbed) - [Renesas](https://github.com/arduino/ArduinoCore-renesas)
 * [Library registry](https://github.com/arduino/library-registry)
 * Documentation
   * [docs.arduino.cc sources](https://github.com/arduino/docs-content)
