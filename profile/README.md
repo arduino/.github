@@ -18,7 +18,7 @@ This organization hosts the various open-source projects managed by the Arduino 
   * [Built-in examples](https://github.com/arduino/arduino-examples)
 * GitHub Actions: [arduino-lint-action](https://github.com/arduino/arduino-lint-action) - [compile-sketches](https://github.com/arduino/compile-sketches) - [report-size-deltas](https://github.com/arduino/report-size-deltas)
 
-Maintaining these projects and handling community contributions is a hard job. Please support us by [buying original Arduino products](https://store.arduino.cc/) or by [donating](https://www.arduino.cc/en/donate/), or even better by joining us in the maintenance of these repositories. Your help will be very appreciated.
+Maintaining these projects and handling community contributions is a hard job. Please support us by [buying original Arduino products](https://store.arduino.cc/) or by [donating](https://www.arduino.cc/en/donate/). Your help will be very appreciated.
 
 ### ✨ How you can contribute
 
@@ -28,7 +28,7 @@ Maintaining these projects and handling community contributions is a hard job. P
 * **Help others** contribute by reviewing their code and suggesting good ways to implement fixes and features.
 * **Write documentation** and improve the existing content.
 
-We value contributions and we provide the most active and constant contributors with public recognition, maintainer status and hardware goodies.
+We value contributions and we provide the most active and constant contributors with public recognition and hardware goodies.
 
 ### 🔒 Security
 
