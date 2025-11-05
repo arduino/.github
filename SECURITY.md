@@ -4,7 +4,7 @@ At Arduino, we consider the security of our systems and products a top priority.
 
 If you believe you've found a security issue in our products or services, we encourage you to notify us. We welcome working with you to resolve the issue promptly.
 
-This policy describes how to send us vulnerability reports and how long we ask security researchers to wait before publicly disclosing vulnerabilities. Your personal data will be processed to pursue Arduino’s legitimate interests in accordance with our privacy policy.
+This policy describes how to send us vulnerability reports and how long we ask security researchers to wait before publicly disclosing vulnerabilities. Your personal data will be processed to pursue Arduino’s legitimate interests in accordance with our [privacy policy](https://www.arduino.cc/en/privacy-policy/).
 
 ## Guidelines
 
