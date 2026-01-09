@@ -6,11 +6,16 @@ This organization hosts the various open-source projects managed by the Arduino 
   * IDE: [1.x](https://github.com/arduino/Arduino) - [2.x](https://github.com/arduino/arduino-ide)
   * Command line: [CLI](https://github.com/arduino/arduino-cli) - [Lint](https://github.com/arduino/arduino-lint) - [FWUploader](https://github.com/arduino/arduino-fwuploader)
   * Misc: [create-agent](https://github.com/arduino/arduino-create-agent)
+* App Lab / UNO Q
+  * App Lab: [arduino-app-lab](https://github.com/arduino/arduino-app-lab)
+  * Command line and tools: [arduino-app-cli](https://github.com/arduino/arduino-app-cli) - [arduino-router](https://github.com/arduino/arduino-router) - [remoteocd](https://github.com/arduino/remoteocd)
+  * Bricks and examples: [app-bricks-py](https://github.com/arduino/app-bricks-py) - [app-bricks-examples](https://github.com/arduino/app-bricks-examples)
+  * Linux images: [arduino-deb-images](https://github.com/arduino/arduino-deb-images) - [Flasher CLI](https://github.com/arduino/arduino-flasher-cli) 
 * Language specification
   * [Language discussions](https://github.com/arduino/language)
   * [Abstract API specification](https://github.com/arduino/ArduinoCore-API)
   * [Reference docs](https://github.com/arduino/reference-en)
-* Cores: [AVR](https://github.com/arduino/ArduinoCore-avr) - [megaAVR](https://github.com/arduino/ArduinoCore-megaavr) - [SAMD](https://github.com/arduino/ArduinoCore-samd) - [SAM](https://github.com/arduino/ArduinoCore-sam) - [Mbed](https://github.com/arduino/ArduinoCore-mbed) - [Renesas](https://github.com/arduino/ArduinoCore-renesas)
+* Cores: [AVR](https://github.com/arduino/ArduinoCore-avr) - [megaAVR](https://github.com/arduino/ArduinoCore-megaavr) - [SAMD](https://github.com/arduino/ArduinoCore-samd) - [SAM](https://github.com/arduino/ArduinoCore-sam) - [Mbed](https://github.com/arduino/ArduinoCore-mbed) - [Renesas](https://github.com/arduino/ArduinoCore-renesas) - [Zephyr](https://github.com/arduino/ArduinoCore-zephyr)
 * [Library registry](https://github.com/arduino/library-registry)
 * Documentation
   * [docs.arduino.cc sources](https://github.com/arduino/docs-content)
