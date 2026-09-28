@@ -1,2 +1,2 @@
 # .github
-Arduino's default community health files
+macosx-fromsource custom community health files
