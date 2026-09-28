@@ -1,4 +1,4 @@
-# Coordinated Vulnerability Disclosure (CVD) Policy
+# Coordinated Vulnerability Disclosure (DCD) Policy
 
 At Arduino, we consider the security of our systems and products a top priority. No technology is perfect, and Arduino believes that working with skilled security researchers across the globe is crucial in identifying weaknesses in any technology. We want security researchers to feel comfortable reporting vulnerabilities they've discovered, as set out in this policy, so that we can fix them and keep our information safe.
 
